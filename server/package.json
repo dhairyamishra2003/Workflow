@@ -5,8 +5,9 @@
   "main": "src/index.js",
   "type": "commonjs",
   "scripts": {
-    "dev": "node src/index.js"
-  },
+  "start": "node src/index.js",
+  "dev": "node src/index.js"
+},
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "@langchain/langgraph": "^1.4.7",
