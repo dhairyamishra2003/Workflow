@@ -29,3 +29,6 @@ Thumbs.db
 # Misc
 *.tgz
 coverage/
+
+.vercel
+.env*
